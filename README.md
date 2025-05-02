@@ -1,6 +1,6 @@
 # 🛣️ **Street Edge Bearing Visualization Using OSMnx** 🛣️
 
-This project visualizes the **edge bearings** of the street network in **District 1, Mashhad, Iran** using the **OSMnx** library. Edge bearings represent the orientation of the street segments in the network and are useful for understanding the geometric layout of streets in urban areas. This project creates both a histogram and a polar plot of street orientations.
+This project visualizes the **edge bearings** of the street network in **Mashhad, Iran** using the **OSMnx** library. Edge bearings represent the orientation of the street segments in the network and are useful for understanding the geometric layout of streets in urban areas. This project creates both a histogram and a polar plot of street orientations.
 
 For more information about **OSMnx**, visit [OSMnx GitHub](https://github.com/gboeing/osmnx).
 
@@ -11,7 +11,7 @@ For more information about **OSMnx**, visit [OSMnx GitHub](https://github.com/gb
 - **Edge Bearing Calculation**: Uses the **OSMnx** library to calculate the bearings (angles) of street edges.
 - **Histogram Plot**: Visualizes the distribution of edge bearings using a histogram.
 - **Polar Plot**: Provides a **polar plot** to visually represent the distribution of street orientations in the network.
-- **Data from OpenStreetMap**: Extracts data from **OpenStreetMap** for **District 1, Mashhad, Iran**, providing real-world urban network information.
+- **Data from OpenStreetMap**: Extracts data from **OpenStreetMap** for **Mashhad, Iran**, providing real-world urban network information.
 - **Custom Visualization**: Offers custom plotting with **Matplotlib** and **NumPy**, showcasing the edge orientations in a street network.
 
 ---
